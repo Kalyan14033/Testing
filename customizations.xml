@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entities />
+  <Roles />
+  <Workflows />
+  <FieldSecurityProfiles />
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships />
+  <OrganizationSettings />
+  <optionsets />
+  <CustomControls>
+    <CustomControl>
+      <Name>cat_PowerCAT.AutoWidthLabel</Name>
+      <FileName>/Controls/cat_PowerCAT.AutoWidthLabel/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Breadcrumb</Name>
+      <FileName>/Controls/cat_PowerCAT.Breadcrumb/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Calendar</Name>
+      <FileName>/Controls/cat_PowerCAT.Calendar/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.CommandBar</Name>
+      <FileName>/Controls/cat_PowerCAT.CommandBar/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.ContextMenu</Name>
+      <FileName>/Controls/cat_PowerCAT.ContextMenu/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Elevation</Name>
+      <FileName>/Controls/cat_PowerCAT.Elevation/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Facepile</Name>
+      <FileName>/Controls/cat_PowerCAT.Facepile/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.FluentDetailsList</Name>
+      <FileName>/Controls/cat_PowerCAT.FluentDetailsList/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Icon</Name>
+      <FileName>/Controls/cat_PowerCAT.Icon/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.KeyboardShortcuts</Name>
+      <FileName>/Controls/cat_PowerCAT.KeyboardShortcuts/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Nav</Name>
+      <FileName>/Controls/cat_PowerCAT.Nav/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.PeoplePicker</Name>
+      <FileName>/Controls/cat_PowerCAT.PeoplePicker/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Persona</Name>
+      <FileName>/Controls/cat_PowerCAT.Persona/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Picker</Name>
+      <FileName>/Controls/cat_PowerCAT.Picker/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Pivot</Name>
+      <FileName>/Controls/cat_PowerCAT.Pivot/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.ProgressIndicator</Name>
+      <FileName>/Controls/cat_PowerCAT.ProgressIndicator/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.ResizableTextarea</Name>
+      <FileName>/Controls/cat_PowerCAT.ResizableTextarea/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.SearchBox</Name>
+      <FileName>/Controls/cat_PowerCAT.SearchBox/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Shimmer</Name>
+      <FileName>/Controls/cat_PowerCAT.Shimmer/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.SpinButton</Name>
+      <FileName>/Controls/cat_PowerCAT.SpinButton/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.Spinner</Name>
+      <FileName>/Controls/cat_PowerCAT.Spinner/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.SubwayNav</Name>
+      <FileName>/Controls/cat_PowerCAT.SubwayNav/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.TagList</Name>
+      <FileName>/Controls/cat_PowerCAT.TagList/ControlManifest.xml</FileName>
+    </CustomControl>
+    <CustomControl>
+      <Name>cat_PowerCAT.ThemeDesigner</Name>
+      <FileName>/Controls/cat_PowerCAT.ThemeDesigner/ControlManifest.xml</FileName>
+    </CustomControl>
+  </CustomControls>
+  <EntityDataProviders />
+  <CanvasApps>
+    <CanvasApp>
+      <Name>cat_powercatcomponentlibrary_0be3a</Name>
+      <AppVersion>2023-07-22T03:07:03Z</AppVersion>
+      <Status>Ready</Status>
+      <CreatedByClientVersion>3.23071.17.0</CreatedByClientVersion>
+      <MinClientVersion>3.23071.17.0</MinClientVersion>
+      <Tags>{"primaryDeviceWidth":"46","primaryDeviceHeight":"640","sienaVersion":"20230718T090033Z-3.23071.11.0","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","publisherVersion":"3.23071.17","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false"}</Tags>
+      <IsCdsUpgraded>0</IsCdsUpgraded>
+      <GalleryItemId xsi:nil="true"></GalleryItemId>
+      <BackgroundColor>rgba(50, 50, 50, 1)</BackgroundColor>
+      <DisplayName>Power CAT Component Library</DisplayName>
+      <Description xsi:nil="true"></Description>
+      <CommitMessage xsi:nil="true"></CommitMessage>
+      <Publisher></Publisher>
+      <AuthorizationReferences>[]</AuthorizationReferences>
+      <ConnectionReferences>{}</ConnectionReferences>
+      <DatabaseReferences>{"default.cds":{"databaseDetails":{"referenceType":"Environmental","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Activities":{"entitySetName":"activitypointers","logicalName":"activitypointer"}}}}</DatabaseReferences>
+      <AppComponents>[{"appComponentName":"952d39d80fc84420b772a5058b19d909","displayName":"ExpandMenu","appName":"c99e04c6-a751-4b2c-ac59-b4d3ad943f0c","appVersion":"2023-07-22T03:07:03Z","appComponentLibraryLogicalName":"cat_powercatcomponentlibrary_0be3a","appDisplayName":"Power CAT Component Library","environmentName":"ba328f6a-7a02-e71d-8104-477f92daf318","owner":{"id":"14279826-b89d-4920-bc4c-adb57b6ea1e5","displayName":"Mateo Gomez","email":"Mateog@powercattools.onmicrosoft.com","type":"User","tenantId":"67c96cd6-4a95-46ee-ac9b-8ee13ae256c4","userPrincipalName":"Mateog@powercattools.onmicrosoft.com"},"allowCustomization":true,"createdOn":"2022-11-15T13:15:41.414Z","lastModifiedOn":"2023-07-22T03:05:37.606Z","connectionReferences":{},"databaseReferences":{"default.cds":{"databaseDetails":{"referenceType":"NotSpecified","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Activities":{"entitySetName":"activitypointers","logicalName":"activitypointer"}}}}},{"appComponentName":"44e7951b1fad4ad98126f8c108dd1e9f","displayName":"Header","appName":"c99e04c6-a751-4b2c-ac59-b4d3ad943f0c","appVersion":"2023-07-22T03:07:03Z","appComponentLibraryLogicalName":"cat_powercatcomponentlibrary_0be3a","appDisplayName":"Power CAT Component Library","environmentName":"ba328f6a-7a02-e71d-8104-477f92daf318","owner":{"id":"14279826-b89d-4920-bc4c-adb57b6ea1e5","displayName":"Mateo Gomez","email":"Mateog@powercattools.onmicrosoft.com","type":"User","tenantId":"67c96cd6-4a95-46ee-ac9b-8ee13ae256c4","userPrincipalName":"Mateog@powercattools.onmicrosoft.com"},"allowCustomization":true,"createdOn":"2022-11-15T13:15:41.414Z","lastModifiedOn":"2023-07-22T03:05:37.606Z","connectionReferences":{},"databaseReferences":{"default.cds":{"databaseDetails":{"referenceType":"NotSpecified","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Activities":{"entitySetName":"activitypointers","logicalName":"activitypointer"}}}}},{"appComponentName":"2e88179d732a402184a767c94eab038b","displayName":"Dialog","appName":"c99e04c6-a751-4b2c-ac59-b4d3ad943f0c","appVersion":"2023-07-22T03:07:03Z","appComponentLibraryLogicalName":"cat_powercatcomponentlibrary_0be3a","appDisplayName":"Power CAT Component Library","environmentName":"ba328f6a-7a02-e71d-8104-477f92daf318","owner":{"id":"14279826-b89d-4920-bc4c-adb57b6ea1e5","displayName":"Mateo Gomez","email":"Mateog@powercattools.onmicrosoft.com","type":"User","tenantId":"67c96cd6-4a95-46ee-ac9b-8ee13ae256c4","userPrincipalName":"Mateog@powercattools.onmicrosoft.com"},"allowCustomization":true,"createdOn":"2022-11-15T13:15:41.414Z","lastModifiedOn":"2023-07-22T03:05:37.606Z","connectionReferences":{},"databaseReferences":{"default.cds":{"databaseDetails":{"referenceType":"NotSpecified","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Activities":{"entitySetName":"activitypointers","logicalName":"activitypointer"}}}}},{"appComponentName":"6da4b2f929d240969e49e05e10e720ce","displayName":"Panel","appName":"c99e04c6-a751-4b2c-ac59-b4d3ad943f0c","appVersion":"2023-07-22T03:07:03Z","appComponentLibraryLogicalName":"cat_powercatcomponentlibrary_0be3a","appDisplayName":"Power CAT Component Library","environmentName":"ba328f6a-7a02-e71d-8104-477f92daf318","owner":{"id":"14279826-b89d-4920-bc4c-adb57b6ea1e5","displayName":"Mateo Gomez","email":"Mateog@powercattools.onmicrosoft.com","type":"User","tenantId":"67c96cd6-4a95-46ee-ac9b-8ee13ae256c4","userPrincipalName":"Mateog@powercattools.onmicrosoft.com"},"allowCustomization":true,"createdOn":"2022-11-15T13:15:41.414Z","lastModifiedOn":"2023-07-22T03:05:37.606Z","connectionReferences":{},"databaseReferences":{"default.cds":{"databaseDetails":{"referenceType":"NotSpecified","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Activities":{"entitySetName":"activitypointers","logicalName":"activitypointer"}}}}}]</AppComponents>
+      <AppComponentDependencies>[]</AppComponentDependencies>
+      <CanConsumeAppPass>1</CanConsumeAppPass>
+      <CanvasAppType>1</CanvasAppType>
+      <BypassConsent>0</BypassConsent>
+      <AdminControlBypassConsent>0</AdminControlBypassConsent>
+      <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <CdsDependencies>{"cdsdependencies":[{"logicalname":"activitypointer","componenttype":1}]}</CdsDependencies>
+      <IsCustomizable>1</IsCustomizable>
+      <BackgroundImageUri>/CanvasApps/cat_powercatcomponentlibrary_0be3a_BackgroundImageUri</BackgroundImageUri>
+      <DocumentUri>/CanvasApps/cat_powercatcomponentlibrary_0be3a_DocumentUri.msapp</DocumentUri>
+    </CanvasApp>
+  </CanvasApps>
+  <Languages>
+    <Language>1033</Language>
+    <Language>1036</Language>
+    <Language>3082</Language>
+  </Languages>
+</ImportExportXml>
